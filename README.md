@@ -270,6 +270,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 |------|-------------|------|
 | [ExifCleaner](https://exifcleaner.com) | Cross platform desktop app to remove exif metadata from images | [https://exifcleaner.com](https://exifcleaner.com)
 | [Lavendel](http://github.com/timo-cmd/lavendel) | Cross platform desktop app >2.5kb containing a cute timer | [https://github.com/timo-cmd/Lavendel](https://github.com/timo-cmd/Lavendel)
+| [ShellLeap](https://github.com/shareefsakk2/shellleap) | Premium, secure cross-platform SSH & SFTP client with AES-256-GCM vault | [https://shareefsakk2.github.io/shellleap/](https://shareefsakk2.github.io/shellleap/) |
 
 ## C++
 | Name | Description | Link |
