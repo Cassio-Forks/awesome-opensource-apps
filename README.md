@@ -22,6 +22,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 - [C#](#c#)
 - [Electron](#electron)
 - [C++](#cpp)
+- [Lua](#lua)
 
 
 ## Laravel
@@ -281,3 +282,8 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | Name | Description | Link |
 |------|-------------|------|
 | [Kopia](https://kopia.io/) | Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice. | [https://github.com/kopia/kopia](https://github.com/kopia/kopia)
+
+## Lua
+| Name | Description | Link |
+|------|-------------|------|
+| [BunkerWeb](https://github.com/bunkerity/bunkerweb) | A next-generation, open-source Web Application Firewall (WAF). | [https://www.bunkerweb.io](https://www.bunkerweb.io) |
